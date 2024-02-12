@@ -1,0 +1,43 @@
+{
+  "name": "Rosé Pine",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#c4a7e7",
+    "primary-color": "#c4a7e7",
+    "warning-color": "#eb6f92",
+    "alert": "#f6c177",
+    "sidebar-color": "#1f1d2e",
+    "roomlist-background-color": "#191724",
+    "roomlist-text-color": "#e0def4",
+    "roomlist-text-secondary-color": "#908caa",
+    "roomlist-highlights-color": "#403d52",
+    "roomlist-separator-color": "#524f67",
+    "timeline-background-color": "#191724",
+    "timeline-text-color": "#e0def4",
+    "secondary-content": "#908caa",
+    "tertiary-content": "#6e6a86",
+    "timeline-text-secondary-color": "#908caa",
+    "timeline-highlights-color": "#26233a",
+    "reaction-row-button-selected-bg-color": "##26233a",
+    "menu-selected-color": "#26233a",
+    "focus-bg-color": "#26233a",
+    "room-highlight-color": "#9ccfd8",
+    "togglesw-off-color": "#21202e",
+    "other-user-pill-bg-color": "#31748f",
+    "username-colors": [
+      "#c4a7e7",
+      "#9ccfd8",
+      "#f6c177",
+      "#eb6f92",
+      "#31748f",
+      "#ebbcba"
+    ],
+    "avatar-background-colors": [
+      "#eb6f92",
+      "#31748f",
+      "#c4a7e7"
+    ]
+  }
+}
+
+

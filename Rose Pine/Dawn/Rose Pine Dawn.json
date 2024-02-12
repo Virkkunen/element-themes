@@ -1,0 +1,44 @@
+{
+  "name": "Rosé Pine Dawn",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#",
+    "primary-color": "#",
+    "warning-color": "#eb6f92",
+    "alert": "#",
+    "sidebar-color": "#",
+    "roomlist-background-color": "#",
+    "roomlist-text-color": "#",
+    "roomlist-text-secondary-color": "#",
+    "roomlist-highlights-color": "#",
+    "roomlist-separator-color": "#",
+    "timeline-background-color": "#",
+    "timeline-text-color": "#e0def4",
+    "secondary-content": "#",
+    "tertiary-content": "#",
+    "timeline-text-secondary-color": "#908caa",
+    "timeline-highlights-color": "#",
+    "reaction-row-button-selected-bg-color": "#",
+    "menu-selected-color": "#",
+    "focus-bg-color": "#",
+    "room-highlight-color": "#",
+    "togglesw-off-color": "#21202e",
+    "other-user-pill-bg-color": "#",
+    "username-colors": [
+      "#c4a7e7",
+      "#9ccfd8",
+      "#f6c177",
+      "#eb6f92",
+      "#31748f",
+      "#ebbcba"
+    ],
+    "avatar-background-colors": [
+      "#eb6f92",
+      "#f6c177",
+      "#ebbcba",
+      "#31748f",
+      "#9ccfd8",
+      "#c4a7e7"
+    ]
+  }
+}
